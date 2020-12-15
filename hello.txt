@@ -1,4 +1,5 @@
 2020年12月15日　GitHub Push成功
             hello.txt    　Push失敗
+            noriaki ohishi write
 
 マージしたいな
