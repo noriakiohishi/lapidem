@@ -4,4 +4,8 @@
 
 マージしたいな
 今度こそ
+<<<<<<< HEAD
 Bracketsで追記
+=======
+GitHubで追記
+>>>>>>> ec95520316e0ec8bdfdd922391a12b72b82ae0d3
