@@ -1,3 +1,4 @@
 2020年12月15日　GitHub Push成功
             hello.txt    　Push失敗
-            hello.txt熟成功
+
+マージしたいな
