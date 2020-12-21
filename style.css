@@ -110,6 +110,10 @@ button{
 	text-align: center;
 	overflow: hidden
 }
+
+.p0 a {
+    padding: 0!important;
+}
 .show_more {
 	width: 100%;
 	position: absolute;
@@ -2234,7 +2238,7 @@ header .header_in .header_right ul li img.illust {
 	.aboutus .aboutus_mv {
 		margin-bottom: 30px
 	}
-	.aboutus .aboutus_mv h1 img {
+	.aboutus_mv h1 img {
 		width: 100%;
 	}
 /* SUB MENU .abousus_head setting*/

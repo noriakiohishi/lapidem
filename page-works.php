@@ -10,6 +10,10 @@
 <?php get_header(); ?>
 <main>
 	<article class="product container">
+      <div class="aboutus_mv">
+        <h1><img src="/wp-content/uploads/2019/12/image_aboutus_mv.jpg" alt="About Us"></h1>
+      </div>
+       
         <h2 class="common_title_insta-area">Works</h2>
         <section class="text_area">
             <p>Lapidemでは、お客様（ホテルやスパ）のコンセプトに合わせて、地元の素材や文化を取り入れた『ここでしか体験することのできない』プログラムをご提案いたします。</p>

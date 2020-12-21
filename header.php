@@ -117,6 +117,7 @@ return(str);})();
 <li><a href="/spa/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_spa.svg" alt=""><p class="disp_sp sp_menu_spa">スパ</p></a></li>
 <li><a href="/professional/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_professional.svg" alt="" class="assenda"><p class="disp_sp sp_menu_professional">プロフェッショナル</p></a></li>
 <li><a href="/about-us/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_aboutus.svg" alt="About us" class="assenda"><p class="disp_sp sp_menu_aboutus">私たちについて</p></a></li>
+<li><a href="/work/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_works.svg" alt="About us" class="assenda"><p class="disp_sp sp_menu_aboutus">実績</p></a></li>
 <!--<li><a href="/Ingredient/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_ingredient.svg" alt=""><p class="disp_sp sp_menu_ingredient">成分</p></a></li>-->
 <!--<li><a href="/factory/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_factory.svg" alt="" ><p class="disp_sp sp_menu_factory">工場</p></a></li>-->
 <li><a href="/awards/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_award.svg" alt="" class="assenda"><p class="disp_sp sp_menu_awards">受賞歴</p></a></li>
@@ -236,6 +237,15 @@ return(str);})();
             </li>
         </ul>
     </li>
+    <!-- プロジェクト実績 START -->
+    <li class="p0">
+        <table style="background: #ebeff0;">
+            <tr height="55">
+            <td class="mlist-left_last"><a href="https://lapidem.co.jp/work/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_works.svg" alt="" class="assenda"></a></td>
+            <td class="mlist-center"><a href="https://lapidem.co.jp/work/">実績</a></td>
+            </tr>
+        </table>
+    </li>
     <li>
         <table style="background: #ebeff0;">
         <tr height="55">
@@ -245,7 +255,7 @@ return(str);})();
         </table>
     </li>
     <!-- お問い合わせ　START -->
-    <li>
+    <li class="p0">
         <table style="background: #ebeff0;">
         <tr height="55">
         <td class="mlist-left_last"><a href="https://lapidem.co.jp/contact/"><img src="<?php echo get_template_directory_uri(); ?>/img/head_contact.svg" alt="" class="assenda"></a></td>
